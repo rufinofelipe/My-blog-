@@ -1,0 +1,29 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mi Blog Personal</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; background-color: #f4f4f4; }
+    h1 { color: #333; }
+    article { background: white; border-radius: 5px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h2 { color: #555; }
+    p { line-height: 1.6; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenidos a Mi Blog</h1>
+
+  <article>
+    <h2>Primera entrada</h2>
+    <p>Este es el comienzo de mi blog. Aquí compartiré cosas interesantes sobre programación.</p>
+  </article>
+
+  <article>
+    <h2>Segunda entrada</h2>
+    <p>Estoy aprendiendo a crear páginas web y subirlas a GitHub. ¡Es emocionante!</p>
+  </article>
+</body>
+</html>
+```
